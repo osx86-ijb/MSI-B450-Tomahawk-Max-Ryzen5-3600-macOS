@@ -1,31 +1,48 @@
 
-# MSI B450 Tomahawk MAX Ryzentosh macOS OpenCore EFI
+# MSI B450 Tomahawk MAX macOS OpenCore 0.7.0 EFI
 
-This repository and project hosts the files necessary to boot macOS Big Sur successfully on custom desktop rig consisting of a MSI B450 Tomahawk MAX motherboard with a Ryzen 5 3600 CPU, and a XFX AMD Radeon RX 5700XT Triple Dissipation dGPU.
+This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur on the MSI B450 Tomahawk MAX Motherboard.
 
-## Acknowledgements
+![MSI B450 Tomahawk MAX Motherboard](https://asset.msi.com/resize/image/global/product/product_1_20200806161944_5f2bbd20c4441.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png)
 
- - [Core x86 Group & Team](https://discord.corex86.com)
- - [Dortania Team for their OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
- - [AMD-OSX and other devs for providing the Vanilla patches necessary to boot macOS bare metal on an AMD based machine](https://github.com/AMD-OSX/AMD_Vanilla)
-  
+## !! ATTENTION !!
+_**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
+
+## The Hardware specs of this build / motherboard used is as follows:
+
+- **Motherboard: MSI B450 Tomahawk MAX**
+
+- **CPU: AMD Ryzen 5 3600 3.6 GHz 6-Core Processor**
+
+- **CPU Cooler: Cooler Master MasterLiquid ML240L RGB 120mm**
+
+- **GPU: XFX AMD Radeon RX 5700 XT TD 8GB GDDR6**
+
+- **Audio Chipset: Realtek® ALC892 Codec **
+
+- **LAN Chipset: Realtek® RTL8111H**
+
+- **WiFI + BT Chipset: Fenvi FV-T919 802.11ac + BT 4.0**
+
+- **RAM: 128GB DDR4 3200Mhz**
+
+- **Storage: Crucial P5 2TB PCIe M.2 2280SS SSD**
+
 ## Authors
 
-- [@osx86_iJB](https://www.github.com/osx86-ijb)
-  
+- [@osx86_ijb](https://www.github.com/osx86-ijb)
+- [@Core-x86 Team](https://discord.com/invite/yCYpdZE)
 
-## Deployment
+## Acknowledgements
+- [Acidanthera & OpenCore Teams](https://github.com/acidanthera)
+- [Dortania OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-To deploy this project properly, please obtain the EFI folder from this repository, edit the config.plist to generate new serial number, rom, UUID, etcetera, then save config.plist, and place the files onto the appropriate ESP EFI partition in order to boot using OpenCore bootloader and proceed with your installation of macOS.
-  
 ## Documentation
 
-```The hardware used in this build is as follows:```
+[How to add EFI files to USB and or HDD/SSD, and more knowledge](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html)
 
-- AUDIO CHIPSET: Realtek ALC892 + Navi 10 HDMI Audio + USB DAC
-- CPU: AMD Ryzen 5 3600 6-Core Processor @ 3.6GHz
-- GPU: XFX AMD Radeon RX 5700 XT Triple Dissipation 8GB GDDR6 PCI-E Gen 4
-- LAN CHIPSET: Realtek RTL8111H Gigabit Ethernet
-- RAM: 64GB DDR4 3200MHz G.Skill Trident Z RGB 
-- STORAGE / SSD: Inland Premium 512GB NVMe (OS Drive) + Much More Other Storage
-- WIFI + BLUETOOTH = Fenvi FV-T919 (Broadcom BCM4360 802.11ac + Apple Inc BT 4.0 USB Host Controller)
+## Badges
+
+[![Hackintosh Legend](https://img.shields.io/badge/Core-x86-blue)](https://github.com/Core-x86)
+[![Core x86](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
+[![AGPL License](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
