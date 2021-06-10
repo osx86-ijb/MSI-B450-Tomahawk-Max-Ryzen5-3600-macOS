@@ -44,5 +44,7 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 ## Badges
 
 [![Hackintosh Legend](https://img.shields.io/badge/Core-x86-blue)](https://github.com/Core-x86)
+
 [![Core x86](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
-[![AGPL License](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
+
+[![Shameless Devildriver Plug](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
