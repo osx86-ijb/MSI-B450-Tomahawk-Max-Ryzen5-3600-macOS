@@ -18,7 +18,7 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 - **GPU: XFX AMD Radeon RX 5700 XT TD 8GB GDDR6**
 
-- **Audio Chipset: Realtek® ALC892 Codec **
+- **Audio Chipset: Realtek® ALC892 Codec**
 
 - **LAN Chipset: Realtek® RTL8111H**
 
