@@ -24,7 +24,7 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 - **WiFI + BT Chipset: Fenvi FV-T919 802.11ac + BT 4.0**
 
-- **RAM: 64GB DDR4 3200Mhz**
+- **RAM: 64GB DDR4 3200Mhz G.Skill Trident Z RGB**
 
 - **Storage: Crucial P5 2TB PCIe M.2 2280SS SSD**
 
