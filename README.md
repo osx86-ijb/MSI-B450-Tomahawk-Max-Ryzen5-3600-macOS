@@ -35,7 +35,6 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 ## Authors
 
 - [@osx86_ijb](https://www.github.com/osx86-ijb)
-- [@Core-x86 Team](https://discord.com/invite/yCYpdZE)
 
 ## Acknowledgements
 - [Acidanthera & OpenCore Teams](https://github.com/acidanthera)
@@ -47,8 +46,6 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 ## Badges
 
-[![Hackintosh Legend](https://img.shields.io/badge/Core-x86-blue)](https://github.com/Core-x86)
-
-[![Core x86](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
+[![Hackintosh Legend](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
 
 [![Shameless Devildriver Plug](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
