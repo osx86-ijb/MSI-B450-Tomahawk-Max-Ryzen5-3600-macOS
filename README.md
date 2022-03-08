@@ -1,3 +1,4 @@
+<p align="center">
 
 # MSI B450 Tomahawk MAX macOS OpenCore EFI
 
@@ -51,3 +52,5 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 [![Hackintosh Legend](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
 
 [![Shameless Devildriver Plug](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
+
+</p>
